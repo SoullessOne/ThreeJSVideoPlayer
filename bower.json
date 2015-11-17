@@ -2,7 +2,7 @@
   "name": "ThreeJSVideoPlayer",
   "version": "0.0",
   "authors": [
-  "Santi <santialedo@gmail.com>"
+    "Santi <santialedo@gmail.com>"
   ],
   "description": "A web video player based on ThreeJS",
   "license": "MIT",
@@ -13,4 +13,9 @@
     "test",
     "tests"
   ],
+  "devDependencies": {
+    "angular": "~1.4.7",
+    "angular-ui-router": "~0.2.15",
+    "three.js": "threejs#*"
+  }
 }
