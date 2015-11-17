@@ -1,0 +1,7 @@
+{
+  "name": "ThreeJSVideoPlayer",
+  "private": true,
+  "version": "0.0.0",
+  "description": "A web video player based on ThreeJS",
+  "license": "MIT",  
+}

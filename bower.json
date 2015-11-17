@@ -1,0 +1,16 @@
+{
+  "name": "ThreeJSVideoPlayer",
+  "version": "0.0",
+  "authors": [
+  "Santi <santialedo@gmail.com>"
+  ],
+  "description": "A web video player based on ThreeJS",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+}
