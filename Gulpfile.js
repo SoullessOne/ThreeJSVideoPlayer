@@ -48,7 +48,7 @@ gulp.task('inject', function(){
     .pipe(inject(gulp.src(['app/js/**/*.js'])
                   .pipe(angularFilesort()),
                   {
-                    ignorePAth: '/app',
+                    ignorePath: '/app',
                   }
                 )
           )

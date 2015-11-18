@@ -1,6 +1,8 @@
 'use strict';
 
-angular.module('panovideojs', ['ui.router']);
+angular.module('panovideojs', [ 'ui.router',
+                                'panovideojs.directives',
+                                'panovideojs.controllers']);
 
 angular.module('panovideojs').value('version', 'v0.0');
 
